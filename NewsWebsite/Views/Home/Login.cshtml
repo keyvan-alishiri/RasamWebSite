@@ -1,0 +1,124 @@
+﻿@using Microsoft.AspNetCore.Http;
+@model NewsWebsite.ViewModels.Manage.SignInViewModel
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "My View";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link type="text/css" href="~/assets/login/css/bootstrap-rtl.min.css" rel="stylesheet">
+    
+	<link type="text/css" href="~/assets/login/css/style.css" rel="stylesheet" />
+	<link href="~/lib/sweetalert2/dist/sweetalert2.min.css" rel="stylesheet" />
+
+</head>
+<body dir="rtl">
+	<div id="home_wave"></div>
+	<div class="container">
+		<div class="d-flex justify-content-center h-100">
+			<div class="card">
+				<div class="card-header">
+					<h3 class="d-flex justify-content-center mt-3"> ورود به حساب کاربری</h3>
+					<!-- <div class="d-flex justify-content-end social_icon">
+						<span><i class="fab fa-facebook-square"></i></span>
+						<span><i class="fab fa-google-plus-square"></i></span>
+						<span><i class="fab fa-twitter-square"></i></span>
+					</div> -->
+				</div>
+				<div class="card-body" id="pills-signin">
+					<form method="post" asp-action="SignIn" asp-controller="Account" >
+						
+						@if (ViewData.ModelState.IsValid.ToString() == "False")
+						{
+							<div asp-validation-summary="All" class="alert alert-danger"></div>
+						}
+						@{
+							var rememberMe = HttpContextAccessor.HttpContext.Request.Cookies.ContainsKey("username") && HttpContextAccessor.HttpContext.Request.Cookies.ContainsKey("password");
+							var username = "";
+							var password = "";
+
+							if (rememberMe)
+							{
+								username = HttpContextAccessor.HttpContext.Request.Cookies["username"];
+								password = HttpContextAccessor.HttpContext.Request.Cookies["password"];
+							}
+						}
+						<input name="IsValid" type="hidden" value="@ViewData.ModelState.IsValid.ToString()" /> 
+						<div class="input-group form-group">
+							<div class="input-group-prepend">
+								<span class="input-group-text input-icon"><img src="~/assets/img/user-circle.png" /></span>
+							</div>
+						@*	<input type="text" class="form-control" id="txt-username" placeholder="نام کاربری">*@
+							<input asp-for="UserName" class="form-control form-control-lg" placeholder="ایمیل یا نام کاربری" value="@username" >
+						</div>
+						<div class="custom-form-group">
+							<div class="input-group form-group">
+								<div class="input-group-prepend">
+									<span class="input-group-text input-icon"><img src="~/assets/img/Key.png" />	</span>
+								</div>
+								@*<input type="password" class="form-control" id="txt-password" placeholder="رمز عبور">*@
+								<input asp-for="Password" class="form-control form-control-lg" autocomplete="off" placeholder="رمز عبور" data-required="" value="@password">
+							</div>
+						</div>
+						
+						<div class="flex-container align-items-center">
+							
+						
+							<input asp-for="RememberMe" class="column" id="customCheckLogin" type="checkbox" checked="@rememberMe">
+							<label class="column">مرا به خاطر بسپار </label>
+						</div>
+						<div class="form-group containerbtn">
+							
+							<button type="button" id="btn-login" value="Sign In" class="btn float-right login_btn" data-save="modal-ajax"><i class="fa fa-sign-in"></i> ورود</button>
+						</div>
+						<div class="d-flex justify-content-center links">
+							<label>
+								رمز عبور خود را فراموش کرده اید؟ <a href="#">بازیابی رمز عبور</a>
+							</label>
+
+						</div>
+						<div class="d-flex justify-content-center links">
+
+							@*<label>
+								برای ثبت نام با شماره.<a href="#">021091092227</a>
+								تماس بگیرید
+							</label>*@
+						</div>
+
+					</form>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<script src="~/assets/login/js/jquery-3.1.1.min.js"></script>
+	<script src="~/assets/login/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/88/three.min.js"></script>
+	<script src="~/assets/login/js/scripts.js"></script>
+    <script src="~/assets/login/js/login.js"></script>
+	<script src="~/lib/sweetalert2/dist/sweetalert2.min.js"></script>
+</body><!-- This template has been downloaded from Webrubik.com -->
+</html>
+
+@*<script type="text/javascript">
+	$(function () {
+		$('.datepicker').datepicker();
+	});
+</script>*@
+
+
+
+
+
+
+ 
+
+
+

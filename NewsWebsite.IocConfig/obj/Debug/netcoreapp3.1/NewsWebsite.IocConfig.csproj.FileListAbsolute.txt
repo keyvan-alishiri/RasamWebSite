@@ -1,0 +1,146 @@
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.deps.json
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.pdb
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.pdb
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csprojAssemblyReference.cache
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfoInputs.cache
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfo.cs
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CoreCompileInputs.cache
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CopyComplete
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.deps.json
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.AssemblyReference.cache
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfoInputs.cache
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfo.cs
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CoreCompileInputs.cache
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CopyComplete
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.deps.json
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.pdb
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.pdb
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.AssemblyReference.cache
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfoInputs.cache
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfo.cs
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CoreCompileInputs.cache
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CopyComplete
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.deps.json
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.AssemblyReference.cache
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfoInputs.cache
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfo.cs
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CoreCompileInputs.cache
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CopyComplete
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.deps.json
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.AssemblyReference.cache
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfoInputs.cache
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfo.cs
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CoreCompileInputs.cache
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CopyComplete
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.deps.json
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.AssemblyReference.cache
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfoInputs.cache
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfo.cs
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CoreCompileInputs.cache
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CopyComplete
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.deps.json
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Services.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Data.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.AssemblyReference.cache
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfoInputs.cache
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfo.cs
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CoreCompileInputs.cache
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CopyComplete
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb

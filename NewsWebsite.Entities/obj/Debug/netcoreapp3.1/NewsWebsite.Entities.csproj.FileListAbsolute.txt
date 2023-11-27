@@ -1,0 +1,68 @@
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.deps.json
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\جزوه .net core\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.deps.json
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.AssemblyReference.cache
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.deps.json
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.AssemblyReference.cache
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+E:\Desktop\NewsWebsite-main\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.deps.json
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.AssemblyReference.cache
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\keyvan\Desktop\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.deps.json
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.AssemblyReference.cache
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+D:\Backup_PC\NewsWebsite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.deps.json
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.AssemblyReference.cache
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.deps.json
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.AssemblyReference.cache
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\shiri.a\Desktop\RasamWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
