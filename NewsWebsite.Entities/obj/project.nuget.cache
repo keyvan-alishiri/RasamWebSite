@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "807iavR+9SK+81tNXBDMXN4FtP5Rf7XTwM7X1e8Tlx2ya4/UH+dXjnaDR+BDMJ6dKzUe3rt4b26V3pfPMzZoWA==",
+  "dgSpecHash": "s/pNhQ07fTLok89nE1mLRm8sZtKurQf1uOGYskwSVR6patwS7wsuGmnDwp3mBne4yqXZ6YBrpcSjxEulAFUkBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
+  "projectFilePath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shiri.a\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.0\\microsoft.aspnetcore.cryptography.internal.3.1.0.nupkg.sha512",
     "C:\\Users\\shiri.a\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.0\\microsoft.aspnetcore.cryptography.keyderivation.3.1.0.nupkg.sha512",

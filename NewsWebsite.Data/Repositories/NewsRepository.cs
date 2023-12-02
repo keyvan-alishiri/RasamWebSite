@@ -370,7 +370,7 @@ namespace NewsWebsite.Data.Repositories
 			   ShortTitle = newsGroup.First().NewsGroup.First().ShortTitle,
 			   Abstract = newsGroup.First().NewsGroup.First().Abstract,
 			   Url = newsGroup.First().NewsGroup.First().Url,
-			   Description = newsGroup.First().NewsGroup.First().Description.Replace("../../", "http://192.168.3.17:82/../../"),
+			   Description = newsGroup.First().NewsGroup.First().Description.Replace("../../", "http://185.103.129.113/../../"),
 			   NumberOfVisit = newsGroup.First().NewsGroup.First().NumberOfVisit,
 			   NumberOfDisLike = newsGroup.First().NewsGroup.First().NumberOfDisLike,
 			   NumberOfLike = newsGroup.First().NewsGroup.First().NumberOfLike,

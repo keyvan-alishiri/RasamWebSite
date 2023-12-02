@@ -10097,11 +10097,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
+      "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
       "projectName": "NewsWebsite.IocConfig",
-      "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
+      "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
       "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\obj\\",
+      "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10118,8 +10118,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
-              "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj"
+            "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
+              "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj"
             }
           }
         }

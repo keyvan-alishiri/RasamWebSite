@@ -8210,11 +8210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
+      "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
       "projectName": "NewsWebsite.Common",
-      "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
+      "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
       "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\obj\\",
+      "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",

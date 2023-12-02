@@ -46,10 +46,10 @@ namespace NewsWebsite.Services.Identity
         {
             using (var serviceScope = _scopeFactory.CreateScope())
             {
-                //using (var context = serviceScope.ServiceProvider.GetService<NewsDBContext>())
-                //{
-                //    context.Database.Migrate();
-                //}
+                using (var context = serviceScope.ServiceProvider.GetService<NewsDBContext>())
+                {
+                   // context.Database.Migrate();
+                }
             }
         }
 
@@ -60,8 +60,8 @@ namespace NewsWebsite.Services.Identity
         {
             using (var serviceScope = _scopeFactory.CreateScope())
             {
-                var identityDbSeedData = serviceScope.ServiceProvider.GetService<IIdentityDbInitializer>();
-                //var result = identityDbSeedData.SeedDatabaseWithAdminUserAsync().Result;
+              //  var identityDbSeedData = serviceScope.ServiceProvider.GetService<IIdentityDbInitializer>();
+              //  var result = identityDbSeedData.SeedDatabaseWithAdminUserAsync().Result;
                 //if (result == IdentityResult.Failed())
                 //{
                 //    throw new InvalidOperationException(result.DumpErrors());

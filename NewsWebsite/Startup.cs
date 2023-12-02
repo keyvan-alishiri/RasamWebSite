@@ -57,7 +57,7 @@ namespace NewsWebsite
             services.AddCors(options =>
             options.AddPolicy("CorsPolicy", policy =>
             {
-                policy.AllowAnyHeader().AllowAnyMethod().AllowCredentials().SetIsOriginAllowed(x => true).WithOrigins("http://localhost:3000", "http://www.rasamflexo.ir",  "https://www.rasamflexo.ir" , "http://www.rasamflexo.ir/") ;
+                policy.AllowAnyHeader().AllowAnyMethod().AllowCredentials().SetIsOriginAllowed(x => true).WithOrigins("http://localhost:3000", "http://www.rasamflexo.ir",  "https://www.rasamflexo.ir" , "http://www.rasamflexo.ir/" , "http://185.103.129.113/") ;
             }));
 
 			

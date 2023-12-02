@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "agJR3+2UXVy9ConFiZVKZcWrMvMt3bg/u/zTAuGnD+BB6moFHo0mgCBWkUXSvDUdYX2/8xh0Helmw2eiFoyvEQ==",
+  "dgSpecHash": "e6f+TtjkMTBEkitg82+Vjd1smYuGsEk+7p32a9tIizHypWwrfar6DyB9d7WYiXuQq+kw9LNfRJJgaj/ZRD43kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
+  "projectFilePath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shiri.a\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\shiri.a\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

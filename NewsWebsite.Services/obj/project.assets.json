@@ -9851,11 +9851,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
+      "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
       "projectName": "NewsWebsite.Services",
-      "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
+      "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
       "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\obj\\",
+      "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9872,8 +9872,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
-              "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
+            "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
+              "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
             }
           }
         }

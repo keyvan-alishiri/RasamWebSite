@@ -10831,11 +10831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\NewsWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj",
       "projectName": "NewsWebsite",
-      "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\NewsWebsite.csproj",
+      "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj",
       "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\obj\\",
+      "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10852,14 +10852,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
-              "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
+            "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
+              "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
             },
-            "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
-              "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
+            "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
+              "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
             },
-            "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
-              "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj"
+            "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
+              "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj"
             }
           }
         }

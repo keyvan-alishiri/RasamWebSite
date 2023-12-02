@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.XUnitTest\\NewsWebsite.XUnitTest.csproj": {}
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.XUnitTest\\NewsWebsite.XUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
         "projectName": "NewsWebsite.Common",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
+        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
         "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\obj\\",
+        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj",
         "projectName": "NewsWebsite.Data",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj",
+        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj",
         "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\obj\\",
+        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,11 +105,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
               },
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj"
               }
             }
           }
@@ -167,14 +167,14 @@
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
         "projectName": "NewsWebsite.Entities",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
+        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
         "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\obj\\",
+        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -228,14 +228,14 @@
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
         "projectName": "NewsWebsite.IocConfig",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
+        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
         "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\obj\\",
+        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -252,8 +252,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj"
               }
             }
           }
@@ -297,14 +297,14 @@
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
         "projectName": "NewsWebsite.Services",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
+        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
         "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Services\\obj\\",
+        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -321,8 +321,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
               }
             }
           }
@@ -370,14 +370,14 @@
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
         "projectName": "NewsWebsite.ViewModels",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
+        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
         "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -394,11 +394,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
               },
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
               }
             }
           }
@@ -432,14 +432,14 @@
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.XUnitTest\\NewsWebsite.XUnitTest.csproj": {
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.XUnitTest\\NewsWebsite.XUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.XUnitTest\\NewsWebsite.XUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.XUnitTest\\NewsWebsite.XUnitTest.csproj",
         "projectName": "NewsWebsite.XUnitTest",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.XUnitTest\\NewsWebsite.XUnitTest.csproj",
+        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.XUnitTest\\NewsWebsite.XUnitTest.csproj",
         "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.XUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.XUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -456,8 +456,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\NewsWebsite.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\NewsWebsite.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj"
               }
             }
           }
@@ -517,14 +517,14 @@
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\NewsWebsite.csproj": {
+    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\NewsWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj",
         "projectName": "NewsWebsite",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\NewsWebsite.csproj",
+        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj",
         "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite\\obj\\",
+        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -541,14 +541,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
               },
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
               },
-              "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\RasamWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj"
+              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
+                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj"
               }
             }
           }
