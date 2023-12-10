@@ -56,13 +56,3 @@ C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Common\obj\Deb
 C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csproj.CoreCompileInputs.cache
 C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.dll
 C:\Users\shiri.A\Documents\RasamSite\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.deps.json
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csproj.AssemblyReference.cache
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfoInputs.cache
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfo.cs
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csproj.CoreCompileInputs.cache
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.dll
-C:\Users\shiri.a\Desktop\NewsWebsite-main\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.pdb

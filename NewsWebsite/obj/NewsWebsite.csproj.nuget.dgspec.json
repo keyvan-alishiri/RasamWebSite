@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj": {}
+    "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
+    "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
         "projectName": "NewsWebsite.Common",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
-        "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\obj\\",
+        "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj",
+        "packagesPath": "C:\\Users\\shiri.A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shiri.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,26 +72,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
+    "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj",
         "projectName": "NewsWebsite.Data",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj",
-        "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\obj\\",
+        "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj",
+        "packagesPath": "C:\\Users\\shiri.A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shiri.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,11 +119,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
               },
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj"
               }
             }
           }
@@ -158,26 +172,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
+    "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
         "projectName": "NewsWebsite.Entities",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
-        "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\obj\\",
+        "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj",
+        "packagesPath": "C:\\Users\\shiri.A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shiri.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,26 +247,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
+    "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
         "projectName": "NewsWebsite.IocConfig",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
-        "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\obj\\",
+        "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
+        "packagesPath": "C:\\Users\\shiri.A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.IocConfig\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shiri.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -252,8 +294,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj"
               }
             }
           }
@@ -288,26 +330,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
+    "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
         "projectName": "NewsWebsite.Services",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
-        "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Services\\obj\\",
+        "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Services\\NewsWebsite.Services.csproj",
+        "packagesPath": "C:\\Users\\shiri.A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shiri.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -321,8 +377,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
               }
             }
           }
@@ -361,26 +417,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
+    "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
         "projectName": "NewsWebsite.ViewModels",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.ViewModels\\obj\\",
+        "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\shiri.A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shiri.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -394,11 +464,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
               },
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
               }
             }
           }
@@ -423,26 +493,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj": {
+    "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj",
         "projectName": "NewsWebsite",
-        "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj",
-        "packagesPath": "C:\\Users\\shiri.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite\\obj\\",
+        "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite\\NewsWebsite.csproj",
+        "packagesPath": "C:\\Users\\shiri.A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shiri.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shiri.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -456,14 +540,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Common\\NewsWebsite.Common.csproj"
               },
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.Data\\NewsWebsite.Data.csproj"
               },
-              "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
-                "projectPath": "C:\\Users\\shiri.a\\Desktop\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj"
+              "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj": {
+                "projectPath": "C:\\Users\\shiri.A\\Documents\\RasamSite\\NewsWebsite-main\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj"
               }
             }
           }
@@ -500,6 +584,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -508,7 +610,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

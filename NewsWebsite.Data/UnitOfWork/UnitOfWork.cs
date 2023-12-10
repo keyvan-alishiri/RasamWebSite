@@ -74,7 +74,7 @@ namespace NewsWebsite.Data.UnitOfWork
             get
             {
                 if (_imageRepository == null)
-                    _imageRepository = new ImageRepository(_Context);
+                    _imageRepository = new ImageRepository(_Context,_configuration);
 
                 return _imageRepository;
             }

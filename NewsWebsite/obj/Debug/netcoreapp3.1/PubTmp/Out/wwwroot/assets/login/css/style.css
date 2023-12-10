@@ -130,7 +130,7 @@ input:focus {
     background: linear-gradient(90deg, #1E6AFD 0%, #3579FD 50.52%, #4081FD 77.60%, #4B88FD 100%);
     color: rgb(249, 244, 244);
     background-color: #FFC312;
-    width: 23rem;
+    width: 100%;
     margin-top: 10px;
 }
 

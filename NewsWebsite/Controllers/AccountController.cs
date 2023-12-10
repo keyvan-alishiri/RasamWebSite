@@ -50,20 +50,10 @@ namespace NewsWebsite.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> SignIn(SignInViewModel viewModel)
         {
-            User User;
             // viewModel.GoogleRecaptchaResponse = "03AAYGu2RTBiGPJwx4X6SuTMV96LBk97OqxBRs0OVqTp57roaWbpow-vW0Lh6G8_zbbkEtSKuI_1P7A1k6ADKvg1GWS5hlBhuMdgphcq1YmweVhlp19072c9yyWkQXj2cr-0Cs6_TmJ70uKBRYYu-QaZh6BBytoj9x3YbBBkEB2ye0M5dtAVcBz1FSxExlnJ8L9XNKW6Guz1d9s9_ylx1pl4Ed8qLhdCUyvP0V8J_Vrf34eE329yNJhMUTOM5cE8SOv2X_xU4COLZX4QX8ICfTlt1TFJ3jdw9ZMB_XQHd9BsiYkLkrq8RyAehgkFHIWw74DRcnhWvr2l7KVCxPrONUsf4GyGMeWbdZvlR59dmIUh_pXS3JZaAjVdkVMFTik2OOg73nAHD8vxzBR36juwg1EnxgRWyEJmNFCtejPVnLVUz9V3PLRfgZhUGAmif_argcfHDn03WKOjmiVPUesYAB1b8A86W9uHNeq56yNmrhq0Vw11UOUMMfBA2EGbHoOGKXB6vXC7f5oJxLo3xgqdZTF6I_3vDU8_InBKthiXLOtpYUhOHZisi6j34";
             if (viewModel != null && !string.IsNullOrEmpty(viewModel.UserName) && !string.IsNullOrEmpty(viewModel.Password))
             {
-                try
-                {
-                    User = await _userManager.FindByNameAsync(viewModel.UserName);
-                }
-                catch (Exception ex)
-                {
-
-                    throw;
-                }
-               
+                var User = await _userManager.FindByNameAsync(viewModel.UserName);
                 if (User != null)
                 {
                     if (User.IsActive)

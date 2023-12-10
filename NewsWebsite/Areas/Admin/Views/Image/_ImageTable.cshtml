@@ -57,18 +57,20 @@
     function detailFormatter(index, row) {
         var html = []
         var posterUrl;
-        var videoUrl;
+        var imageUrl;
      
         $.each(row, function (key, value) {
+            debugger;
             if (key == "poster")
                posterUrl ='@string.Format("{0}://{1}", Context.Request.Scheme, Context.Request.Host)' + '/posters/' + value;
             if (key != "state" && key != "Id" && key != "ردیف" && key != "poster" && key!="url")
                 html.push('<p><b>' + key + ':</b> ' + value + '</p>')
             if (key == "url")
-                videoUrl = value;
+                imageUrl = value;
+          
           
         })
-            html.push('<video height="240" poster="' + posterUrl + '" controls><source src="' + videoUrl + '">Your browser does not support the video tag.</video>')
+        html.push('<p><b> آدرس:</b> ' + '<img height="240"  src="' + imageUrl + '">')
             return html.join('')
         }
 

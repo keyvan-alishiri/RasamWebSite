@@ -318,19 +318,38 @@ namespace NewsWebsite.Areas.Admin.Controllers
             return PartialView("_DeleteConfirmation");
         }
 
-        //[HttpPost]
-        //public ActionResult Upload(HttpPostedFileBase )
-        //{
-        //   // var file = Request.fi["file"];
-        //    //string extension = Path.GetExtension(file.FileName);
-        //    //string fileid = Guid.NewGuid().ToString();
-        //    //fileid = Path.ChangeExtension(fileid, extension);
-        //  //  var filename1 = Path.GetFileName(file.FileName);
-        //  // // string location = Server.MapPath(@"~\Uploads\" + filename1);
-        // //   file.SaveAs(location);
+        [HttpPost]
+        public ActionResult Upload(IFormFile file)
+        {
+            if (file != null && file.Length > 0)
+            {
+                try
+                {
+                    // اینجا تصویر را ذخیره یا پردازش کنید
+                    // به عنوان مثال، آن را در پوشه Uploads ذخیره کنید
+                    string uploadsFolder = Path.Combine(_env.WebRootPath, "Uploads");
+                    string uniqueFileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+                    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
 
-        //    return Json(new { location = Url.Content("~/Uploads/" + "") });
-        //}
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        file.CopyTo(fileStream);
+                    }
+
+                    // در اینجا مسیر فایل را به مشتری ارسال کنید
+                    string fileUrl = Url.Content("~/Uploads/" + uniqueFileName);
+
+                    return Json(new { location = fileUrl });
+                }
+                catch (Exception ex)
+                {
+                    // در صورت بروز خطا، اطلاعات خطا را مدیریت کنید
+                    return Json(new { error = "خطا در ذخیره تصویر" });
+                }
+            }
+
+            return Json(new { error = "فایلی برای آپلود انتخاب نشده است." });
+        }
 
         [HttpPost, ActionName("DeleteGroup"), AjaxOnly, DisplayName("حذف گروهی")]
         [Authorize(Policy = ConstantPolicies.DynamicPermission)]

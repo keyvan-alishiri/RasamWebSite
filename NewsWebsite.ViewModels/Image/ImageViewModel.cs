@@ -11,20 +11,17 @@ namespace NewsWebsite.ViewModels.Image
         [JsonPropertyName("Id")]
         public string ImageId { get; set; }
 
-
+        [JsonPropertyName("ردیف")]
         public int Row { get; set; }
 
-        [JsonPropertyName("Title"), Display(Name = "عنوان تصویر")]
+        [JsonPropertyName("عنوان تصویر"), Display(Name = "عنوان تصویر")]
         [Required(ErrorMessage = "وارد نمودن {0} الزامی است.")]
         public string Title { get; set; }
 
-        [Display(Name = "آدرس تصویر"), Url(ErrorMessage = "آدرس وارد شده نا معتبر است.")]
+        [Display(Name = "آدرس تصویر")]
 
         public string Url { get; set; }
 
-        [Display(Name = "آدرس تصویر تعبیه شده")]
-       
-        public string EmbeddedUrl { get; set; }
 
         [Display(Name = "تصویر"), JsonIgnore]
         //[Required(ErrorMessage = "انتخاب {0} الزامی است.")]

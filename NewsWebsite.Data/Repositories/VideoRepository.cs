@@ -22,13 +22,24 @@ namespace NewsWebsite.Data.Repositories
 
         public async Task<List<VideoViewModel>> GetPaginateVideosAsync(int offset, int limit, string orderBy, string searchText)
         {
+            List<VideoViewModel> videos = new List<VideoViewModel>();
             var getDateTimesForSearch = searchText.GetDateTimeForSearch();
-            List<VideoViewModel> videos= await _context.Videos.Where(c => c.Title.Contains(searchText) || (c.PublishDateTime >= getDateTimesForSearch.First() && c.PublishDateTime <= getDateTimesForSearch.Last()))
-                                    .OrderBy(orderBy).Skip(offset).Take(limit)
-                                    .Select(c => new VideoViewModel { VideoId = c.VideoId, Title = c.Title, Url = c.Url, EmbeddedUrl = c.EmbeddedUrl , Poster=c.Poster,PersianPublishDateTime=c.PublishDateTime.ConvertMiladiToShamsi("yyyy/MM/dd ساعت HH:mm:ss"),PublishDateTime=c.PublishDateTime}).AsNoTracking().ToListAsync();
+            try
+            {
+              
+                await _context.Videos.Where(c => c.Title.Contains(searchText) || (c.PublishDateTime >= getDateTimesForSearch.First() && c.PublishDateTime <= getDateTimesForSearch.Last()))
+                                   .OrderBy(orderBy).Skip(offset).Take(limit)
+                                   .Select(c => new VideoViewModel { VideoId = c.VideoId, Title = c.Title, Url = c.Url, EmbeddedUrl = c.EmbeddedUrl, Poster = c.Poster, PersianPublishDateTime = c.PublishDateTime.ConvertMiladiToShamsi("yyyy/MM/dd ساعت HH:mm:ss"), PublishDateTime = c.PublishDateTime }).AsNoTracking().ToListAsync();
 
-            foreach (var item in videos)
-                item.Row = ++offset;
+                foreach (var item in videos)
+                    item.Row = ++offset;
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
+           
 
             return videos;
         }

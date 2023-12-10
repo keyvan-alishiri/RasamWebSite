@@ -47,38 +47,42 @@ namespace NewsWebsite.Areas.Api.Controllers.v1
         [HttpGet]
 		public async Task<IActionResult> GetVideos(string search, string order, int offset, int limit, string sort)
 		{
-			List<VideoViewModel> videos;
-			int total = _uw.BaseRepository<Video>().CountEntities();
-			if (!search.HasValue())
-				search = "";
+            List<VideoViewModel> videos = new List<VideoViewModel>();
+            int total = _uw.BaseRepository<Video>().CountEntities();
+            if (total > 0)
+            {
+                if (!search.HasValue())
+                    search = "";
 
-			if (limit == 0)
-				limit = total;
+                if (limit == 0)
+                    limit = total;
 
-			if (sort == "عنوان ویدیو")
-			{
-				if (order == "asc")
-					videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "Title", search);
-				else
-					videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "Title desc", search);
-			}
+                if (sort == "عنوان ویدیو")
+                {
+                    if (order == "asc")
+                        videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "Title", search);
+                    else
+                        videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "Title desc", search);
+                }
 
-			else if (sort == "تاریخ انتشار")
-			{
-				if (order == "asc")
-					videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "PublishDateTime", search);
-				else
-					videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "PublishDateTime desc", search);
-			}
+                else if (sort == "تاریخ انتشار")
+                {
+                    if (order == "asc")
+                        videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "PublishDateTime", search);
+                    else
+                        videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "PublishDateTime desc", search);
+                }
 
-			else
-				videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "PublishDateTime desc", search);
+                else
+                    videos = await _uw.VideoRepository.GetPaginateVideosAsync(offset, limit, "PublishDateTime desc", search);
 
-			if (search != "")
-				total = videos.Count();
+                if (search != "")
+                    total = videos.Count();
+            }
 
-			return Ok(new { total = total, rows = videos });
-		}
+
+            return Ok(new { total = total, rows = videos });
+        }
 
 	}
 }

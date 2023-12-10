@@ -43,7 +43,12 @@
 //});
 
 $(document).ready(function () {
-
+    $('#pills-signin input').keypress(function (e) {
+        if (e.which === 13) { // اگر کلید فشرده شده Enter باشد
+            e.preventDefault(); // جلوگیری از ارسال فرم به صورت پیش‌فرض
+            $("#btn-login").click(); // اجرای کلیک بر روی دکمه ورود
+        }
+    });
     $("#btn-login").click(function () {
 
         var form;

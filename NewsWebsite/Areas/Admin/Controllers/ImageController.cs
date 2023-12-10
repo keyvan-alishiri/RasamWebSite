@@ -149,39 +149,39 @@ namespace NewsWebsite.Areas.Admin.Controllers
 
         [HttpGet, AjaxOnly(), DisplayName("حذف")]
         [Authorize(Policy = ConstantPolicies.DynamicPermission)]
-        public async Task<IActionResult> Delete(string videoId)
+        public async Task<IActionResult> Delete(string imageId)
         {
-            if (!videoId.HasValue())
+            if (!imageId.HasValue())
                 ModelState.AddModelError(string.Empty, ImageNotFound);
             else
             {
-                var video = await _uw.BaseRepository<Video>().FindByIdAsync(videoId);
-                if (video == null)
+                var image = await _uw.BaseRepository<Image>().FindByIdAsync(imageId);
+                if (image == null)
                     ModelState.AddModelError(string.Empty, ImageNotFound);
                 else
-                    return PartialView("_DeleteConfirmation", video);
+                    return PartialView("_DeleteConfirmation", image);
             }
             return PartialView("_DeleteConfirmation");
         }
 
 
         [HttpPost, ActionName("Delete"), AjaxOnly()]
-        public async Task<IActionResult> DeleteConfirmed(Video model)
+        public async Task<IActionResult> DeleteConfirmed(Image model)
         {
-            if (model.VideoId == null)
+            if (model.ImageId == null)
                 ModelState.AddModelError(string.Empty, ImageNotFound);
             else
             {
-                var video = await _uw.BaseRepository<Video>().FindByIdAsync(model.VideoId);
-                if (video == null)
+                var image = await _uw.BaseRepository<Image>().FindByIdAsync(model.ImageId);
+                if (image == null)
                     ModelState.AddModelError(string.Empty, ImageNotFound);
                 else
                 {
-                    FileExtensions.DeleteFile($"{_env.WebRootPath}/posters/{video.Poster}");
-                    _uw.BaseRepository<Video>().Delete(video);
+                    FileExtensions.DeleteFile($"{_env.WebRootPath}/posters/{image.Poster}");
+                    _uw.BaseRepository<Image>().Delete(image);
                     await _uw.Commit();
                     TempData["notification"] = DeleteSuccess;
-                    return PartialView("_DeleteConfirmation", video);
+                    return PartialView("_DeleteConfirmation", image);
                 }
             }
             return PartialView("_DeleteConfirmation");
@@ -198,10 +198,10 @@ namespace NewsWebsite.Areas.Admin.Controllers
             {
                 foreach (var item in btSelectItem)
                 {
-                    var video = await _uw.BaseRepository<Video>().FindByIdAsync(item);
-                    _uw.BaseRepository<Video>().Delete(video);
+                    var image = await _uw.BaseRepository<Image>().FindByIdAsync(item);
+                    _uw.BaseRepository<Image>().Delete(image);
                     await _uw.Commit();
-                    FileExtensions.DeleteFile($"{_env.WebRootPath}/posters/{video.Poster}");
+                    FileExtensions.DeleteFile($"{_env.WebRootPath}/posters/{image.Poster}");
                 }
                 TempData["notification"] = "حذف گروهی اطلاعات با موفقیت انجام شد.";
             }
